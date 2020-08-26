@@ -1,2 +1,6 @@
 Venus es otro planeta de nuestro sistema solar
 No es tan conocido para nosotros como Marte
+quier probar si diff me lo muestra
+Listo! teniendo venus.txt sin hacer git add, lo comparo con HEAD y me muestra "quiero probar si diff me lo muestra" como diferencia
+y por supuesto la linea anterior, porque cambia de fin de archivo a un enter solamente. 
+Otro cambio que voy a hacer es forzar encoding a UTF-8 al salvar el notepad. 
